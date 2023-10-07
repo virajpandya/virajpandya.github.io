@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an *observationally-trained theorist* who is broadly interested in galaxy formation in a cosmological context.
+I am an *observationally-trained* theorist who is broadly interested in galaxy formation in a cosmological context.
 I use a combination of analytic theory, numerical experiments in the form of simulations, and observations with both
 ground- and space-based telescopes to understand the connection between star formation, black hole formation, galaxy formation 
 and large-scale structure formation. Currently, I am a NASA Hubble Postdoctoral Fellow at Columbia University. Previously, I was an NSF 
