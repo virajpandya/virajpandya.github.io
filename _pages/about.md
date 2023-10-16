@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+<meta name="google-site-verification" content="LBFLelVyE6pMFEJ593X3M0we71aZRgJUcIPw8TuvJQ4" />
+
 I am an *observationally-trained* theorist who is broadly interested in galaxy formation in a cosmological context.
 I use a combination of analytic theory, numerical experiments in the form of simulations, and observations with both
 ground- and space-based telescopes to understand the connection between star formation, black hole formation, galaxy formation 
