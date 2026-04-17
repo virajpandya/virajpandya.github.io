@@ -39,7 +39,7 @@ I finished my PhD in 2021 before the hype of large language models. Ever since, 
 
 # Galaxy Morphology, Kinematics and Scaling Relations
 
-We don't know what they are, but we know that galaxies must evolve according to some set of physical laws because they follow morphological sequences and exhibit remarkably tight correlations both globally, locally and across time. Since the evolution of individual galaxies is not observable on human timescales, these population-level trends provide essential information about the dynamical phase space behavior of galaxies. I have a wide variety of research interests in this area spanning observations, theory and data science.
+We don't know how, but we know that galaxies must evolve according to some set of physical laws because they follow morphological sequences and exhibit remarkably tight correlations both globally, locally and across time. Since the evolution of individual galaxies is not observable on human timescales, these population-level trends provide essential information about the dynamical phase space behavior of galaxies. I have a wide variety of research interests in this area spanning observations, theory and data science.
 
 
 ## 3D shapes of protogalaxies 
