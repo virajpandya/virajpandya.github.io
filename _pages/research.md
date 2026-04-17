@@ -94,6 +94,6 @@ Besides studying the biggest and fluffiest galaxies above, I have also searched 
 
 # Miscellaneous Projects
 
-One of the beautiful things about galaxy formation is that it involves pretty much every subfield of astrophysics and cosmology, and has deep connections to the fundamentals of dynamics, numerics, statistics and interpretable AI/ML. I chose to work in this field because it meant that I had to pursue doctoral and post-doctoral training as an interdisciplinary generalist. I like to stay grounded about how much we still don't know about the various constituents of galaxies by collaborating across research domains. Here are some example projects:
+One of the beautiful things about galaxy formation is that it involves pretty much every subfield of astrophysics and cosmology, and has deep connections to the fundamentals of dynamics, numerics, statistics and interpretable AI/ML. I chose to work in this field because it meant that I could pursue interdisciplinary research after being trained as a generalist during my doctoral and post-doctoral fellowships. I like to stay grounded about how much we still don't know about the various constituents of galaxies and the Universe by collaborating across research domains. Here are some example projects:
 
 
